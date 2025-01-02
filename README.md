@@ -3,7 +3,7 @@ BLOCKCHAIN SECURITY AUDIT
 
 **Approach to auditing a blockchain network:**
 
-1. Understand the Blockchain Architecture
+1.Understand the Blockchain Architecture
    
  Blockchain network's structure, including:
 
@@ -151,6 +151,7 @@ Ensure the blockchain network complies with relevant security standards and fram
 
 
 **Conclusion**
+
 A thorough blockchain security audit must assess the smart contracts for coding flaws, the consensus mechanism for weaknesses like 51% attacks, and the overall network infrastructure for vulnerabilities such as DDoS and unauthorized node access. Combining static and dynamic analysis of smart contracts with network monitoring and infrastructure security is essential to securing a blockchain network. Regular audits, penetration testing, and compliance with best practices can significantly reduce the risk of attacks.
 
 
