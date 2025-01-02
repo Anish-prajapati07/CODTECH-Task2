@@ -1,6 +1,24 @@
 # CODTECH-Task2
 BLOCKCHAIN SECURITY AUDIT
 
+Name:Anish Prajapati
+
+Company:CODTECH IT SOLUTIONS
+
+ID: CT08EDO
+
+Domain:Cyber security and Ethical hacking
+
+Duration:December 17th,2024 to january 17th,2025
+
+Mentor:Neela Santhosh Kumar
+
+**Overview of the project**
+
+Conduct a security audit of a blockchain network to identify vulnerabilities
+and potential attack vectors. Analyze smart contracts, consensus
+mechanisms, and network infrastructure for security weaknesses.
+
 **Approach to auditing a blockchain network:**
 
 1.Understand the Blockchain Architecture
